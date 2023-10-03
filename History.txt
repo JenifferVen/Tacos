@@ -1,0 +1,16 @@
+  152  cd ProgHist-Text
+  153  ls
+  154  cd ..
+  155  cd Tacos
+  156  ls
+  157  cd ProgHist-Text
+  158  ls
+  159  cd ..
+  160  wget http://www.gutenberg.org/files/2600/2600-0.txt
+  161  open ProgHist-Text.txt
+  162  cat ProgHist-Text.txt
+  163  head ProgHist-Text.txt
+  164  tail ProgHist-Text.txt
+  165  mv ProgHist-Text.txt
+  166  mv ProgHist-Text.txt tolstoy.txt
+  167  history
